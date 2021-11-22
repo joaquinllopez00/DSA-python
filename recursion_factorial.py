@@ -1,7 +1,7 @@
 def fact(x):
   if (x == 1):
-    return 1
-  else:
+    return 1 # base case
+  else: # recursion case
     return x * fact(x-1)
     
 

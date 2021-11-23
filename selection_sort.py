@@ -1,3 +1,6 @@
+#BIG O of Selection Sort is => O(n^2)
+
+
 def findSmallest(arr):
   smallest = arr[0] #stores smallest val
   smallest_index = 0 # stores smallest index
